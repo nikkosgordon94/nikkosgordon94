@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://thedesignest.net/wp-content/uploads/2020/05/Cyberpunk-2077-Art-by-James-Abels-689x1024.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdnb.artstation.com/p/assets/images/images/030/916/251/large/mitchell-seminutin-asset.jpg?1602036964">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 ## Hi there 👋
 I’m currently working on learning about Data Analytics & Cybersecurity. 
 I'm looking for help with sources for step-by-step learning guides for coding in Python and R.
