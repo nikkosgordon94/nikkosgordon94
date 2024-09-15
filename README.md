@@ -1,4 +1,6 @@
 ## Hi there 👋
+I’m currently working on learning about Data Analytics & Cybersecurity. 
+I'm looking for help with sources for step-by-step learning guides for coding in Python and R.
 
 <!--
 **nikkosgordon94/nikkosgordon94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
